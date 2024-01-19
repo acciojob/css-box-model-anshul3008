@@ -1,6 +1,7 @@
 #box{
 	box-sizing: border-box;
     width: 300px !important;
+	max-width: 300px !important;
     background-color: rgb(173, 216, 230);
     border: 15px solid rgb(0,0,255);
     padding: 50px;
